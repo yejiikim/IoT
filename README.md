@@ -11,7 +11,9 @@ An interactive platform for analyzing and predicting traffic patterns in urban a
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Deployment](#deployment)
-7. [Screenshots](#screenshots)
+7. [Built With](#built-with)
+8. [Results and Insights](#results-and-insights)
+9. [Future Enhancements](#future-enhancements)
 
 ---
 
