@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import os
 
 # Define paths
-DATA_PATH = "/Users/gim-yeji/PycharmProjects/pythonProject/IoT/merged_data_collection/"
-VISUALIZATION_PATH = "/Users/gim-yeji/PycharmProjects/pythonProject/IoT/static/visualizations/"
+DATA_PATH = "/IoT/merged_data_collection/"
+VISUALIZATION_PATH = "/IoT/static/visualizations/"
 
 # Ensure the visualization folder exists
 os.makedirs(VISUALIZATION_PATH, exist_ok=True)

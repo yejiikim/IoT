@@ -9,7 +9,7 @@ import logging
 
 # Set up logging
 logging.basicConfig(
-    filename="log/daily_data_collection.log",
+    filename="../log/daily_data_collection.log",
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
