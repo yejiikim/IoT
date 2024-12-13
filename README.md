@@ -97,7 +97,9 @@ Follow these steps to set up the project locally:
 2. **Interact with the Dashboard**
    - View traffic trends and correlations through interactive visualizations.
    - Input weather parameters (temperature and humidity) to predict traffic volume using the trained models.
-  
+
+  <img width="1320" alt="image" src="https://github.com/user-attachments/assets/58f8af87-8f4e-4e2d-b9c5-eaff647042fb" />
+
 ## 🌐 Deployment
 
 **Deploy Locally**
