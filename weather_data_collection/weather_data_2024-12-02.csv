@@ -1,0 +1,2 @@
+datetime,temperature,humidity,pressure,wind_speed,weather_description,latitude,longitude
+2024-12-02 16:10:00.151245,9.5,74,1014,6.17,overcast clouds,51.5074,-0.1278

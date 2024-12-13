@@ -1,0 +1,9 @@
+atco_code,line,direction,operator,destination,best_departure_estimate,source,datetime
+0100BRP90310,A1,Bristol Bus Station,FBRI,,23:52,tnds,2024-12-12 23:52:00
+0100BRP90310,A1,Bristol Bus Station,FBRI,,00:46,tnds,2024-12-12 00:46:00
+0100BRP90312,A1,Bristol Bus Station,FBRI,,23:25,tnds,2024-12-12 23:25:00
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,23:26,tnds,2024-12-12 23:26:00
+0100BRP90312,A1,Bristol Bus Station,FBRI,,23:55,tnds,2024-12-12 23:55:00
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,23:56,tnds,2024-12-12 23:56:00
+0100BRP90312,A1,Bristol Bus Station,FBRI,,00:48,tnds,2024-12-12 00:48:00
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,00:55,tnds,2024-12-12 00:55:00

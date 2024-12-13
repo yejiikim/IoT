@@ -1,0 +1,19 @@
+atco_code,line,direction,operator,destination,best_departure_estimate,source,datetime
+0100BRP90310,A1,"Bristol, Bus Station",FBRI,,21:14,"tnds, NextBuses",2024-12-12 21:14:00
+0100BRP90310,A1,"Bristol, Bus Station",FBRI,,21:43,"tnds, NextBuses",2024-12-12 21:43:00
+0100BRP90310,A1,"Bristol, Bus Station",FBRI,,22:13,"tnds, NextBuses",2024-12-12 22:13:00
+0100BRP90310,A1,"Bristol, Bus Station",FBRI,,22:44,"tnds, NextBuses",2024-12-12 22:44:00
+0100BRP90310,73,"Hengrove Park, Hengrove Depot",_noc_FBRI,,21:36,NextBuses,2024-12-12 21:36:00
+0100BRP90310,73,"Hengrove Park, Hengrove Depot",_noc_FBRI,,22:33,NextBuses,2024-12-12 22:33:00
+0100BRP90310,73,Hengrove Bus Depot,FBRI,,22:43,tnds,2024-12-12 22:43:00
+0100BRP90312,72,Frenchay Campus (Stop A),FBRI,,21:15,"tnds, NextBuses",2024-12-12 21:15:00
+0100BRP90312,72,Frenchay Campus (Stop A),FBRI,,22:15,"tnds, NextBuses",2024-12-12 22:15:00
+0100BRP90312,72,Frenchay Campus (Stop A),FBRI,,23:05,"tnds, NextBuses",2024-12-12 23:05:00
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,21:15,"tnds, NextBuses",2024-12-12 21:15:00
+0100BRP90312,A1,"Bristol, Bus Station",FBRI,,21:17,"tnds, NextBuses",2024-12-12 21:17:00
+0100BRP90312,A1,"Bristol, Bus Station",FBRI,,21:46,"tnds, NextBuses",2024-12-12 21:46:00
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,21:47,"tnds, NextBuses",2024-12-12 21:47:00
+0100BRP90312,A1,"Bristol, Bus Station",FBRI,,22:16,"tnds, NextBuses",2024-12-12 22:16:00
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,22:17,"tnds, NextBuses",2024-12-12 22:17:00
+0100BRP90312,A1,"Bristol, Bus Station",FBRI,,22:47,"tnds, NextBuses",2024-12-12 22:47:00
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,22:47,"tnds, NextBuses",2024-12-12 22:47:00

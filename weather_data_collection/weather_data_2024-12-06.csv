@@ -1,0 +1,2 @@
+datetime,temperature,humidity,pressure,wind_speed,weather_description,latitude,longitude
+2024-12-06 00:02:00.119623,8.78,76,1006,10.29,broken clouds,51.5074,-0.1278

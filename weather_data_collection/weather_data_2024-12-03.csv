@@ -1,0 +1,2 @@
+datetime,temperature,humidity,pressure,wind_speed,weather_description,latitude,longitude
+2024-12-03 21:12:00.084309,4.96,86,1024,0.45,scattered clouds,51.5074,-0.1278

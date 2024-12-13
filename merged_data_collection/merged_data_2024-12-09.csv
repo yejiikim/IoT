@@ -1,0 +1,49 @@
+atco_code,line,direction,operator,destination,best_departure_estimate,source,datetime,temperature,humidity,pressure,wind_speed,weather_description,latitude,longitude
+0100BRP90310,A1,Bristol Bus Station,FBRI,,16:21,tnds,2024-12-12 16:21:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,71,Stoke Gifford Bristol Parkway Stn,SCGL,,16:22,tnds,2024-12-12 16:22:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90310,73,Hengrove Bus Depot,FBRI,,16:22,tnds,2024-12-12 16:22:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,16:25,tnds,2024-12-12 16:25:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,A1,Bristol Bus Station,FBRI,,16:26,tnds,2024-12-12 16:26:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,70,UWE Frenchay Campus,FBRI,,16:27,tnds,2024-12-12 16:27:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90310,70,Temple Meads Station,FBRI,,16:34,tnds,2024-12-12 16:34:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,SB7,"Bishopsworth, Vicarage Road",FBRI,,16:36,tnds,2024-12-12 16:36:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,16:37,tnds,2024-12-12 16:37:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90310,A1,Bristol Bus Station,FBRI,,16:38,tnds,2024-12-12 16:38:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,A1,Bristol Bus Station,FBRI,,16:43,tnds,2024-12-12 16:43:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,16:49,tnds,2024-12-12 16:49:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90310,A1,Bristol Bus Station,FBRI,,16:50,tnds,2024-12-12 16:50:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90310,73,Hengrove Bus Depot,FBRI,,16:51,tnds,2024-12-12 16:51:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,70,UWE Frenchay Campus,FBRI,,16:52,tnds,2024-12-12 16:52:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,A1,Bristol Bus Station,FBRI,,16:55,tnds,2024-12-12 16:55:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90310,70,Temple Meads Station,FBRI,,16:57,tnds,2024-12-12 16:57:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90310,A1,Bristol Bus Station,FBRI,,17:02,tnds,2024-12-12 17:02:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,17:04,tnds,2024-12-12 17:04:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,A1,Bristol Bus Station,FBRI,,17:07,tnds,2024-12-12 17:07:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,72,UWE Frenchay Campus,FBRI,,17:12,tnds,2024-12-12 17:12:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90310,A1,Bristol Bus Station,FBRI,,17:14,tnds,2024-12-12 17:14:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,70,UWE Frenchay Campus,FBRI,,17:17,tnds,2024-12-12 17:17:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,A1,Bristol Bus Station,FBRI,,17:19,tnds,2024-12-12 17:19:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90310,70,Temple Meads Station,FBRI,,17:21,tnds,2024-12-12 17:21:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,17:21,tnds,2024-12-12 17:21:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90310,A1,Bristol Bus Station,FBRI,,17:26,tnds,2024-12-12 17:26:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90310,73,Hengrove Bus Depot,FBRI,,17:27,tnds,2024-12-12 17:27:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,A1,Bristol Bus Station,FBRI,,17:31,tnds,2024-12-12 17:31:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,17:33,tnds,2024-12-12 17:33:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,71,Stoke Gifford Bristol Parkway Stn,SCGL,,17:35,tnds,2024-12-12 17:35:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90310,A1,Bristol Bus Station,FBRI,,17:39,tnds,2024-12-12 17:39:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,70,UWE Frenchay Campus,FBRI,,17:42,tnds,2024-12-12 17:42:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,A1,Bristol Bus Station,FBRI,,17:43,tnds,2024-12-12 17:43:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,17:45,tnds,2024-12-12 17:45:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90310,70,Temple Meads Station,FBRI,,17:45,tnds,2024-12-12 17:45:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90310,A1,Bristol Bus Station,FBRI,,17:51,tnds,2024-12-12 17:51:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,A1,Bristol Bus Station,FBRI,,17:55,tnds,2024-12-12 17:55:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,17:57,tnds,2024-12-12 17:57:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90310,73,Hengrove Bus Depot,FBRI,,17:57,tnds,2024-12-12 17:57:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,70,UWE Frenchay Campus,FBRI,,18:02,tnds,2024-12-12 18:02:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90310,A1,Bristol Bus Station,FBRI,,18:03,tnds,2024-12-12 18:03:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,A1,Bristol Bus Station,FBRI,,18:07,tnds,2024-12-12 18:07:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90310,70,Temple Meads Station,FBRI,,18:08,tnds,2024-12-12 18:08:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,18:09,tnds,2024-12-12 18:09:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90310,A1,Bristol Bus Station,FBRI,,18:15,tnds,2024-12-12 18:15:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,72,UWE Frenchay Campus,FBRI,,18:15,tnds,2024-12-12 18:15:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,18:17,tnds,2024-12-12 18:17:00,7.9,83,1030,6.17,broken clouds,51.5074,-0.1278

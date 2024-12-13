@@ -1,0 +1,8 @@
+atco_code,line,direction,operator,destination,best_departure_estimate,source,datetime,temperature,humidity,pressure,wind_speed,weather_description,latitude,longitude
+0100BRP90310,A1,Bristol Bus Station,FBRI,,00:16,tnds,2024-12-12 00:16:00,8.78,76,1006,10.29,broken clouds,51.5074,-0.1278
+0100BRP90312,A1,Bristol Bus Station,FBRI,,00:18,tnds,2024-12-12 00:18:00,8.78,76,1006,10.29,broken clouds,51.5074,-0.1278
+0100BRP90310,A1,Bristol Bus Station,FBRI,,00:46,tnds,2024-12-12 00:46:00,8.78,76,1006,10.29,broken clouds,51.5074,-0.1278
+0100BRP90312,A1,Bristol Bus Station,FBRI,,00:48,tnds,2024-12-12 00:48:00,8.78,76,1006,10.29,broken clouds,51.5074,-0.1278
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,00:55,tnds,2024-12-12 00:55:00,8.78,76,1006,10.29,broken clouds,51.5074,-0.1278
+0100BRP90310,A1,Bristol Bus Station,FBRI,,01:46,tnds,2024-12-12 01:46:00,8.78,76,1006,10.29,broken clouds,51.5074,-0.1278
+0100BRP90312,A1,Bristol Bus Station,FBRI,,01:48,tnds,2024-12-12 01:48:00,8.78,76,1006,10.29,broken clouds,51.5074,-0.1278

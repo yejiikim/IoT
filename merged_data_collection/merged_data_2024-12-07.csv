@@ -1,0 +1,48 @@
+atco_code,line,direction,operator,destination,best_departure_estimate,source,datetime,temperature,humidity,pressure,wind_speed,weather_description,latitude,longitude
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,13:47,tnds,2024-12-12 13:47:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90310,73,Hengrove Bus Depot,FBRI,,13:49,tnds,2024-12-12 13:49:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90310,70,Temple Meads Station,FBRI,,13:50,tnds,2024-12-12 13:50:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90310,A1,Bristol Bus Station,FBRI,,13:51,tnds,2024-12-12 13:51:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,A1,Bristol Bus Station,FBRI,,13:56,tnds,2024-12-12 13:56:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,13:59,tnds,2024-12-12 13:59:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90310,A1,Bristol Bus Station,FBRI,,14:03,tnds,2024-12-12 14:03:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,70,UWE Frenchay Campus,FBRI,,14:05,tnds,2024-12-12 14:05:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,A1,Bristol Bus Station,FBRI,,14:08,tnds,2024-12-12 14:08:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,72,UWE Frenchay Campus,FBRI,,14:10,tnds,2024-12-12 14:10:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90310,70,Temple Meads Station,FBRI,,14:10,tnds,2024-12-12 14:10:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,14:11,tnds,2024-12-12 14:11:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,71,Stoke Gifford Bristol Parkway Stn,SCGL,,14:12,tnds,2024-12-12 14:12:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90310,A1,Bristol Bus Station,FBRI,,14:15,tnds,2024-12-12 14:15:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,A1,Bristol Bus Station,FBRI,,14:20,tnds,2024-12-12 14:20:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90310,73,Hengrove Bus Depot,FBRI,,14:23,tnds,2024-12-12 14:23:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,14:23,tnds,2024-12-12 14:23:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,70,UWE Frenchay Campus,FBRI,,14:25,tnds,2024-12-12 14:25:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90310,A1,Bristol Bus Station,FBRI,,14:27,tnds,2024-12-12 14:27:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90310,70,Temple Meads Station,FBRI,,14:29,tnds,2024-12-12 14:29:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,A1,Bristol Bus Station,FBRI,,14:32,tnds,2024-12-12 14:32:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,14:35,tnds,2024-12-12 14:35:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90310,A1,Bristol Bus Station,FBRI,,14:39,tnds,2024-12-12 14:39:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,A1,Bristol Bus Station,FBRI,,14:43,tnds,2024-12-12 14:43:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,70,UWE Frenchay Campus,FBRI,,14:45,tnds,2024-12-12 14:45:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,14:47,tnds,2024-12-12 14:47:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90310,70,Temple Meads Station,FBRI,,14:48,tnds,2024-12-12 14:48:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90310,A1,Bristol Bus Station,FBRI,,14:54,tnds,2024-12-12 14:54:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90310,73,Hengrove Bus Depot,FBRI,,14:54,tnds,2024-12-12 14:54:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,A1,Bristol Bus Station,FBRI,,14:58,tnds,2024-12-12 14:58:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,14:59,tnds,2024-12-12 14:59:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,70,UWE Frenchay Campus,FBRI,,15:05,tnds,2024-12-12 15:05:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90310,A1,Bristol Bus Station,FBRI,,15:09,tnds,2024-12-12 15:09:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,72,UWE Frenchay Campus,FBRI,,15:10,tnds,2024-12-12 15:10:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,71,Stoke Gifford Bristol Parkway Stn,SCGL,,15:12,tnds,2024-12-12 15:12:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90310,70,Temple Meads Station,FBRI,,15:12,tnds,2024-12-12 15:12:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,A1,Bristol Bus Station,FBRI,,15:13,tnds,2024-12-12 15:13:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,15:14,tnds,2024-12-12 15:14:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90310,A1,Bristol Bus Station,FBRI,,15:24,tnds,2024-12-12 15:24:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,70,UWE Frenchay Campus,FBRI,,15:25,tnds,2024-12-12 15:25:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90310,73,Hengrove Bus Depot,FBRI,,15:27,tnds,2024-12-12 15:27:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,15:28,tnds,2024-12-12 15:28:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,A1,Bristol Bus Station,FBRI,,15:28,tnds,2024-12-12 15:28:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90310,70,Temple Meads Station,FBRI,,15:32,tnds,2024-12-12 15:32:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90310,A1,Bristol Bus Station,FBRI,,15:37,tnds,2024-12-12 15:37:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,A1,Bristol Bus Station,FBRI,,15:41,tnds,2024-12-12 15:41:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278
+0100BRP90312,A1,"Bristol Airport, Airport Terminal",FBRI,,15:43,tnds,2024-12-12 15:43:00,6.33,90,991,9.77,overcast clouds,51.5074,-0.1278

@@ -1,0 +1,22 @@
+2024-12-02 15:16:37,914 - INFO - Starting daily data collection.
+2024-12-02 15:16:38,562 - INFO - Data successfully fetched for ATCO code 0100BRP90310.
+2024-12-02 15:16:39,075 - INFO - Data successfully fetched for ATCO code 0100BRP90312.
+2024-12-02 15:16:39,085 - INFO - File live_departures_2024-12-02.csv saved locally.
+2024-12-02 15:16:39,481 - INFO - File live_departures_2024-12-02.csv uploaded to GCS as live_departures_2024-12-02.csv.
+2024-12-02 15:23:04,688 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-02 15:23:04,688 - INFO - Scheduler started. Data collection will run daily at 03:00.
+2024-12-02 15:23:04,688 - INFO - Added job "start_scheduler.<locals>.<lambda>" to job store "default"
+2024-12-02 15:23:04,688 - INFO - Scheduler started
+2024-12-02 15:25:29,659 - INFO - Scheduler stopped.
+2024-12-02 15:25:32,824 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-12-02 15:25:32,824 - INFO - Scheduler started. Data collection will run daily at 03:00.
+2024-12-02 15:25:32,825 - INFO - Added job "start_scheduler.<locals>.<lambda>" to job store "default"
+2024-12-02 15:25:32,825 - INFO - Scheduler started
+2024-12-02 15:30:00,009 - INFO - Running job "start_scheduler.<locals>.<lambda> (trigger: cron[hour='15', minute='30'], next run at: 2024-12-02 15:30:00 GMT)" (scheduled at 2024-12-02 15:30:00+00:00)
+2024-12-02 15:30:00,011 - INFO - Starting daily data collection.
+2024-12-02 15:30:00,605 - INFO - Data successfully fetched for ATCO code 0100BRP90310.
+2024-12-02 15:30:01,175 - INFO - Data successfully fetched for ATCO code 0100BRP90312.
+2024-12-02 15:30:01,190 - INFO - File live_departures_2024-12-02.csv saved locally.
+2024-12-02 15:30:01,535 - INFO - File live_departures_2024-12-02.csv uploaded to GCS as live_departures_2024-12-02.csv.
+2024-12-02 15:30:01,536 - INFO - Job "start_scheduler.<locals>.<lambda> (trigger: cron[hour='15', minute='30'], next run at: 2024-12-03 15:30:00 GMT)" executed successfully
+2024-12-02 15:33:39,991 - INFO - Scheduler stopped.
